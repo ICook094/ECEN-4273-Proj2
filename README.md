@@ -1,6 +1,9 @@
 # ECEN-4273 
 ## Project 2: Object Detection Neural Network
 
+# Code
+This program was written in Google Colab. Follow this link: https://colab.research.google.com/drive/12l3l76oMgzLbrkpLyHdHWXAQgHBeJWVg#scrollTo=jO-s5P6SDoeL
+
 # Introduction
 This program takes in a short video and then splices the input video into frames. Then, the frames are passed along to an object detection neural network that can identify five objects -- Pikachu, a multirotor drone, a cat, a dog, or a person. While we first attepted to use a convolution neural network, after many issues, we shifted to using a YOLO model. The neural network outputs frames with a bounding box around the detected object, as well as a label. Lastly, the frames are combined into an output video. 
 
