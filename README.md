@@ -38,7 +38,8 @@ Most of the libraries used are for image processing.
 ---
 # Installation
 
-There are no installation requirements, as all code is executed within the browser using [Google Colab](https://colab.research.google.com/drive/12l3l76oMgzLbrkpLyHdHWXAQgHBeJWVg#scrollTo=GAz1XQqsCG3s).
+There are no installation requirements, as all code is executed within the browser using [Google Colab](https://colab.research.google.com/drive/12l3l76oMgzLbrkpLyHdHWXAQgHBeJWVg#scrollTo=GAz1XQqsCG3s). <br>
+You will need to upload the input.mp4 into the content portion of the colab files. This should be what opens up when you select the files button.
 
 ---
 # Usage Procedures
